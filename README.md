@@ -26,21 +26,6 @@ This project allows users to accurately track time with start, pause, reset, and
 
 ---
 
-## 📂 Project Structure
-
-
-
-stop-watch/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-
-
----
-
 ## 📌 How to Use
 
 1. Open the **Live Demo** link or clone this repository  
